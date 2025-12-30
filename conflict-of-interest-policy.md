@@ -20,6 +20,10 @@ Examples include, but are not limited to:
 2. Disclosures should be made in writing, describing the nature and extent of the interest.
 3. All disclosures will be recorded in the minutes of the Board meeting at which they are presented.
 
+## Annual Disclosures
+
+In addition to the disclosure procedure outlined above, each Covered Person shall annually complete and sign a Conflict of Interest Disclosure Statement. The statement will be distributed by the Secretary of the Board and must be returned within thirty (30) days. The signed statements will be kept on file and reviewed by the Board Chair and Executive Director to ensure ongoing compliance.
+
 ## Handling of Identified Conflicts
 
 When a conflict of interest is identified:
